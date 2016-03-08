@@ -65,6 +65,6 @@ http://sourceforge.net/apps/mediawiki/notepad-plus/index.php?title=Context_Menu
         <Item MenuEntryName="Edit" MenuItemName="Block Comment"/>
         <Item MenuEntryName="Edit" MenuItemName="Block Uncomment"/>
         <Item id="0"/>
-        <Item MenuEntryName="View" MenuItemName="Hide lines"/>
+        <Item MenuEntryName="View" MenuItemName="Hide lines a"/>
     </ScintillaContextMenu>
 </NotepadPlus>
