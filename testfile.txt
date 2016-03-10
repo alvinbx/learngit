@@ -1,3 +1,6 @@
 test file 
   create by alvin
   changed at 2016.3.8
+
+新增一行东西试试 再增加一行试试 
+add more line to see see
